@@ -23,4 +23,9 @@ stylesheet.css
 # jenv local settings
 .java-version
 
+# script output or secret files
 jdbc-connection-string
+event.json
+bucket-name.txt
+out.yml
+out.json

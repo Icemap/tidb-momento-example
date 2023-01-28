@@ -1,0 +1,4 @@
+{
+  "tidbJDBCStr" : "jdbc:mysql://<host>:<port>/test?user=<username>&password=<password>&sslMode=VERIFY_IDENTITY&enabledTLSProtocols=TLSv1.2,TLSv1.3",
+  "momentoAuthToken": "**************************************************************************************************************************"
+}

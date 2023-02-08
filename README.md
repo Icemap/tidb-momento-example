@@ -27,6 +27,7 @@ We don't want that you have no idea to integrate TiDB and Momento. So, we offer 
 
   - [Read-Aside Cache](/java-read-aside/)
   - Write-Aside Cache(TODO)
+  - [Java Spring Annotation](/java-spring-annotation/)
 
 - Golang:
 

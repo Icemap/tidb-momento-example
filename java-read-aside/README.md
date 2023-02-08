@@ -21,8 +21,8 @@ Use the following instructions to deploy the sample application.
 
 ## Prepare
 
-1. Create a [TiDB Cloud](https://tidbcloud.com/console/clusters) Serverless Tier Cluster. You can see the [help documents](https://docs.pingcap.com/tidbcloud/create-tidb-cluster) to get more information.
-2. Configure Momento by Momento CLI:
+1. If you didn't have a TiDB cluster, create a [TiDB Cloud](https://tidbcloud.com/console/clusters) Serverless Tier Cluster. You can see the [help documents](https://docs.pingcap.com/tidbcloud/create-tidb-cluster) to get more information.
+2. If you not configured Memonto before, configure Momento by Momento CLI:
 
     1. Download and create token:
 

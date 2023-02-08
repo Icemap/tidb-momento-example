@@ -8,3 +8,6 @@
 *.iws
 *.iml
 *.ipr
+
+**/application.yml
+**/application.properties
